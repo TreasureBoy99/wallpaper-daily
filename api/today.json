@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-12",
-  "generatedAt": "2026-07-12T05:33:17.820156Z",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T05:43:12.549622Z",
   "categories": {
     "bing": {
-      "title": "缅因州的狂野一面",
-      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_1920x1080.jpg"
+      "title": "为摇滚而生",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg"
     },
     "desktop": {
       "title": "清新少女的微笑",
@@ -14,9 +14,6 @@
       "title": "光影中的沉思",
       "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/mobile/人像/氛围感/光影-白衣-真人美女.png"
     },
-    "avatar": {
-      "title": "海绵宝宝的玫瑰花园",
-      "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/avatar/动漫/海绵宝宝/微信图片_2026-05-18_171819_498.jpg"
-    }
+    "avatar": null
   }
 }
