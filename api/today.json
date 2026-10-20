@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T07:14:03.965072Z",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T07:02:58.977741Z",
   "categories": {
     "bing": {
-      "title": "75载，风华正茂",
-      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg"
+      "title": "慢节奏生活",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.jpg"
     },
     "desktop": {
       "title": "星河浩瀚下的雪山小镇",
@@ -14,6 +14,9 @@
       "title": "暗夜里绽放的红玫瑰",
       "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/mobile/人像/魅力/吊带丝袜-女性人像.jpg"
     },
-    "avatar": null
+    "avatar": {
+      "title": "温柔时光中的甜妹",
+      "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/avatar/人像/甜妹/微信图片_2026-10-11_100743_787.jpg"
+    }
   }
 }
