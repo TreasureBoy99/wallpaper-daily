@@ -1,15 +1,18 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T09:09:48.042233Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T09:00:13.498014Z",
   "categories": {
     "bing": {
-      "title": "没有建筑师的建筑杰作",
-      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg"
+      "title": "冰下秘境",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg"
     },
-    "desktop": null,
+    "desktop": {
+      "title": "晴窗映照粉色的心事",
+      "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/desktop/动漫/二次元/微信图片_20261112203310_3597_71.png"
+    },
     "mobile": {
-      "title": "琉璃光里的一缕幽梦",
-      "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/mobile/人像/氛围感/image_蒂法这张脸配婚纱也是降维打击||..._7.jpg"
+      "title": "窗畔柔光里的浅蓝诗意",
+      "url": "https://cdn.jsdelivr.net/gh/IT-NuanxinPro/nuanXinProPic@latest/wallpaper/mobile/人像/魅力/丝袜-女性人像.jpg"
     },
     "avatar": {
       "title": "噜噜的丰收苹果篮",
